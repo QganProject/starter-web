@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 Additional information 
 
 ## Description 
-Description About Project
+Description About Project is information on code
 
 # Changes 
 Log Changes
