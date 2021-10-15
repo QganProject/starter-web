@@ -14,3 +14,6 @@ Description About Project
 
 # Changes 
 Log Changes
+
+### Copyright
+Git Training copyright
